@@ -75,7 +75,15 @@ Os métodos representam os estados e ações dos objetos e classes.
 <h3>🔻 OBJETO: </h3>
 Em POO, objeto é um "molde" de uma determinada classe, que passa a existir a partir de uma instância da classe. A classe define o comportamento do objeto, usando atributos (propriedades) e métodos (ações).
 Objeto em ciência da computação, é uma referência a um local da memória que possui um valor. Um objeto pode ser uma variável, função, ou estrutura de dados. 
+🤝 Conexão e Comunidade
 
+Se você tiver dúvidas ou quiser trocar ideias sobre Java, POO ou este projeto, conecte‑se comigo:
+
+🔗 LinkedIn: https://www.linkedin.com/in/israel-cassute/
+
+🐦 Twitter/X: https://x.com/Israzuba0023
+
+📸 Instagram: https://www.instagram.com/israzuba0023/
 <h3>🔻 INSTÂNCIA: </h3>
 Uma instância de uma classe é um novo objeto criado dessa classe, com o operador new. Instanciar uma classe é criar um novo objeto do mesmo tipo dessa classe. Uma classe somente poderá ser utilizada após ser instanciada.
 
@@ -150,3 +158,14 @@ Se possível:<br>
 ------------
 
 Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+
+🤝 Conexão e Comunidade
+
+Se você tiver dúvidas ou quiser trocar ideias sobre Java, POO ou este projeto, conecte‑se comigo:
+
+🔗 LinkedIn: https://www.linkedin.com/in/israel-cassute/
+
+🐦 Twitter/X: https://x.com/Israzuba0023
+
+📸 Instagram: https://www.instagram.com/israzuba0023/
+
